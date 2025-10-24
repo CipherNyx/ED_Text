@@ -45,11 +45,11 @@ Currently supports **Caesar Cipher** and **Vigenère Cipher**, with plans to add
 ---
 
 ## 🎮 How It Works
-- **jButton1 (Encrypt)** → Encrypts the input text using the selected method  
-- **jButton2 (Decrypt)** → Decrypts the input text using the selected method  
-- **jButton3 (Clear)** → Resets all fields  
-- **jComboBox1** → Selects encryption/decryption method  
-- **jTextField1** → Enter key for Vigenère Cipher  
+- **Encrypt Button** → Encrypts the input text using the selected method  
+- **Decrypt Button** → Decrypts the input text using the selected method  
+- **Clear Button** → Resets all fields  
+- **Combo Box** → Selects encryption/decryption method  
+- **Key Text Field** → Enter key for Vigenère Cipher  
 
 ---
 
